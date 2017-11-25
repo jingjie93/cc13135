@@ -1,3 +1,5 @@
+<?php include 'HOT2header.html'; ?>
+
 <!DOCTYPE html>
 <html>
 <body>
@@ -17,7 +19,6 @@ table
 }
 </style>
 </head>
-<?php include 'HOT2header.html'; ?>
 <table>
 <form action="HOT2Q2.php" method="post">
 
